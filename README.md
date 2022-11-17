@@ -6,4 +6,4 @@ KELOMPOK 5 :
   - Fawzan Ibnu Fajar (1197050042)
   - Khoirul Ummam (1197050059)
 
-# BUSINESS
+# BUSINESS UNDERSTANDING
